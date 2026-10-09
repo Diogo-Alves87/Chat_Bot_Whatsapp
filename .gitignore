@@ -1,0 +1,26 @@
+# Segredos e credenciais
+.env
+credentials/*
+!credentials/.gitkeep
+credentials*.json
+authorized_user.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# pywhatkit
+PyWhatKit_DB.txt
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

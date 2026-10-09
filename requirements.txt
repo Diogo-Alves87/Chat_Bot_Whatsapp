@@ -1,0 +1,4 @@
+gspread>=6.0
+pywhatkit>=5.4
+pyautogui>=0.9.54
+python-dotenv>=1.0
